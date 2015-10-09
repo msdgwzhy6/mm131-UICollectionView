@@ -6,3 +6,4 @@ Swift 2.0 基于UICollectionView的美图浏览器
 使用框架:Alamofire, SDWebImage, JGProgressHUD, Kanna
 
 ##预览
+![](https://github.com/luzefeng/mm131-UICollectionView/blob/master/preview.gif)
